@@ -27,7 +27,7 @@ From the root project directory: `python3 food_calculator.py`
 From the root project directory: `pytest -v tests`
 
 ### Test Cases Not Covered in AC
-- Possible shortages due to variances in average amount of dogs the previous month
+- Possible shortages due to variances in average amount of dogs the previous month.
 - Variances in the monthly order cycle due to months having more or less days.
 - Assumption: The 20% additional food covers for the slight variances mentioned above. 
 - Assumption: In the case of food excess we will order no food.
