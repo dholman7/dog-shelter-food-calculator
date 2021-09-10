@@ -3,7 +3,7 @@ import pytest
 import food_calculator
 
 
-def test_psotive_example():
+def test_postive_example():
     assert food_calculator.calculate_food_order(5, 3, 7, 17) == 363.6
 
 
